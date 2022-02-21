@@ -1,2 +1,8 @@
 # EGR314
-Tutorial Repository
+Project description
+
+## How To
+
+asgklsgjksfgj
+
+sdlgkjslkgjlkjfg
