@@ -1,8 +1,6 @@
 # EGR314
 Project description
 
-## How To
+## How To Install
 
-asgklsgjksfgj
-
-sdlgkjslkgjlkjfg
+## How To Use
